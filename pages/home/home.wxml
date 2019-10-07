@@ -1,2 +1,14 @@
-<view>知识点2</view>
-<view>呵呵呵</view>
+
+<!--1、使用自定义组件基本使用-->
+<!-- <my-cpn/>
+<my-cpn/><my-cpn/> -->
+
+<!--2、使用自定义组件样式细节-->
+
+<!-- <my-style/> -->
+
+<!--3、使用自定义组件传参数/样式-->
+
+<my-prop title="哈哈哈" titleclass='red'/>
+<my-prop title="呵呵呵" titleclass='green'/>
+<my-prop />
