@@ -1,0 +1,4 @@
+<!--pages/about/about.wxml-->
+<!-- <text>pages/about/about.wxml</text> -->
+<import src="item.wxml"/>
+<template is="item" data="{{name:'辉少'}}" />
